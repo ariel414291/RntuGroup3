@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+臺灣大學用電狀況分析與節電措施建議
 
-You can use the [editor on GitHub](https://github.com/ariel414291/RntuGroup3/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+第三組：王怡文、李碩儒、李宸馨、林芝伃、倪昆恩、傅子晏
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+※研究動機：
 
-### Markdown
+據媒體報導，臺灣大學每年電費達4億元，遠高於全台其它大學。近年來校方已有提出節電政策，然而我們好奇校園內各建物在推行節電政策情形，同時也希望身為台大學生能夠為天天接觸而容易被遺忘的議題盡一份心力，因此做出下列研究並提出建議。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ariel414291/RntuGroup3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+※研究方法：透過R分析總務處提供的數據資料、進行口頭探訪和實地考察，試圖解答我們對於用電現狀的眾眾多疑問。
